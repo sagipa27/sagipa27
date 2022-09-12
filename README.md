@@ -13,10 +13,10 @@
 
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/santiago-giraldo-011696b5/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/santiago-giraldo-011696b5/)
+
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/sagipa27/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/sagipa27/)
+
 
 ### Languages and Tools:
 
