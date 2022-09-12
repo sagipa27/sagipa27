@@ -35,23 +35,6 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/codeSTACKr/nft-landing-page/pull/11) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. ❌ Closed PR [#21](https://github.com/codeSTACKr/nft-landing-page/pull/21) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-3. ❌ Closed PR [#16](https://github.com/codeSTACKr/nft-landing-page/pull/16) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-4. ❌ Closed PR [#14](https://github.com/codeSTACKr/nft-landing-page/pull/14) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-5. ❌ Closed PR [#9](https://github.com/codeSTACKr/nft-landing-page/pull/9) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
