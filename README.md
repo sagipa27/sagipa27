@@ -12,7 +12,7 @@
 ### Connect with me:
 
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/santiago-giraldo-011696b5/)[![website](./img/instagram-light.svg)](https://www.instagram.com/sagipa27/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/santiago-giraldo-011696b5/)    [![website](./img/instagram-light.svg)](https://www.instagram.com/sagipa27/)
 
 
 ### Languages and Tools:
@@ -33,10 +33,12 @@
 
 ### Stats
 
-
+<details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Santiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sagipa27&show_icons=true&theme=radical" />
-<img align="left" alt="Santiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagipa27&show_icons=true&theme=radical" />
+  <img align="left" alt="Santiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sagipa27&show_icons=true&theme=radical" />
+  <img align="left" alt="Santiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagipa27&show_icons=true&theme=radical" />
+
+</details>
 
 
