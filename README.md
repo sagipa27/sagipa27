@@ -34,6 +34,7 @@
 ### Stats
 
 <details>
+<br>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Santiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sagipa27&show_icons=true&theme=radical" />
