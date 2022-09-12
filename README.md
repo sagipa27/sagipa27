@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2022 Goals: Learn more about Frontend development
-- ⚡ Fun fact: I love working out, dancing and playing guitar
+- ⚡ Fun fact: I love working out, dancing and playing piano
 
 
 ### Connect with me:
