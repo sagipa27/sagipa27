@@ -3,7 +3,7 @@
 
 ## I'm a Computer science student
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently improving Java skills
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2022 Goals: Learn more about Backend development
 - ⚡ Fun fact: I love working out, dancing and playing piano
