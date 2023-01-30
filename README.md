@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently improving Java skills
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2022 Goals: Learn more about Backend development
+- 🥅 2023 Goals: Learn more about Backend development
 - ⚡ Fun fact: I love working out, dancing and playing piano
 
 
