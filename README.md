@@ -27,7 +27,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/61858344/191144805-12faefef-ba39-4744-ab78-2b8702c8a373.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/61858344/191144805-12faefef-ba39-4744-ab78-2b8702c8a373.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/61858344/191144590-73fbecd8-eda7-4692-bfb8-8515168b9b90.png" />
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Terminal" width="26px" src="https://icon-library.com/images/bash-icon/bash-icon-23.jpg" />
