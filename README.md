@@ -1,7 +1,7 @@
 # Hi there, I'm Santiago Giraldo Parra
 
 
-## I'm a Computer science student
+## I'm a Computer science student & Software Developer at IAS Software
 
 - 🌱 I’m currently improving Java skills
 - 👯 I’m looking to collaborate with other developers 
